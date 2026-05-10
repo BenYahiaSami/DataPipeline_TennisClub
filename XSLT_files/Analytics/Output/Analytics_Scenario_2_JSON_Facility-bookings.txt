@@ -1,0 +1,107 @@
+
+{
+  "facilityBookingsAnalytics": [
+        
+
+    {
+            
+      "facilityID": "      1
+",
+
+            
+      "facilityType": "      Outside
+",
+
+            
+      "groundType": "      Clay
+",
+
+            
+      "state": "      Operational
+",
+
+            
+      "bookingsCount":      14
+,
+
+            
+      "usageCategory": "      High"
+    }      ,
+
+    {
+            
+      "facilityID": "      2
+",
+
+            
+      "facilityType": "      Outside
+",
+
+            
+      "groundType": "      Hard
+",
+
+            
+      "state": "      Operational
+",
+
+            
+      "bookingsCount":      13
+,
+
+            
+      "usageCategory": "      High"
+    }      ,
+
+    {
+            
+      "facilityID": "      3
+",
+
+            
+      "facilityType": "      Outside
+",
+
+            
+      "groundType": "      Grass
+",
+
+            
+      "state": "      NotOperational
+",
+
+            
+      "bookingsCount":      11
+,
+
+            
+      "usageCategory": "      High"
+    }      ,
+
+    {
+            
+      "facilityID": "      4
+",
+
+            
+      "facilityType": "      Inside
+",
+
+            
+      "groundType": "      Hard
+",
+
+            
+      "state": "      Operational
+",
+
+            
+      "bookingsCount":      12
+,
+
+            
+      "usageCategory": "      High"
+    }      
+  ]
+}
+  

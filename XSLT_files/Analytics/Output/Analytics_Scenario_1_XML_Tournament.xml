@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<TournamentAnalytics>
+<TournamentSummary>
+<TournamentID>1</TournamentID>
+<TournamentName>Intermediate Internal Tournament - June 2025</TournamentName>
+<Level>Intermediate</Level>
+<ParticipantsCount>2</ParticipantsCount>
+<Prize>150.00</Prize>
+<HasWinner>Yes</HasWinner>
+<Winners>
+<Winner>Novak Djokovic</Winner>
+</Winners>
+</TournamentSummary>
+<TournamentSummary>
+<TournamentID>2</TournamentID>
+<TournamentName>Advanced Open Club - July 2025</TournamentName>
+<Level>Advanced</Level>
+<ParticipantsCount>3</ParticipantsCount>
+<Prize>250.00</Prize>
+<HasWinner>No</HasWinner>
+<Winners></Winners>
+</TournamentSummary>
+<TournamentSummary>
+<TournamentID>3</TournamentID>
+<TournamentName>Tournoi Avances - Printemps 2023</TournamentName>
+<Level>Advanced</Level>
+<ParticipantsCount>2</ParticipantsCount>
+<Prize>200.00</Prize>
+<HasWinner>Yes</HasWinner>
+<Winners>
+<Winner>Rafa Nadal</Winner>
+</Winners>
+</TournamentSummary>
+<TournamentSummary>
+<TournamentID>4</TournamentID>
+<TournamentName>Women Open Club - Spring 2024</TournamentName>
+<Level>Advanced</Level>
+<ParticipantsCount>2</ParticipantsCount>
+<Prize>180.00</Prize>
+<HasWinner>Yes</HasWinner>
+<Winners>
+<Winner>Caroline Wozniacki</Winner>
+</Winners>
+</TournamentSummary>
+<TournamentSummary>
+<TournamentID>5</TournamentID>
+<TournamentName>Summer Club Championship 2024</TournamentName>
+<Level>Intermediate</Level>
+<ParticipantsCount>2</ParticipantsCount>
+<Prize>150.00</Prize>
+<HasWinner>Yes</HasWinner>
+<Winners>
+<Winner>Emma Dubois</Winner>
+</Winners>
+</TournamentSummary>
+<TournamentSummary>
+<TournamentID>6</TournamentID>
+<TournamentName>Autumn Tennis Cup 2024</TournamentName>
+<Level>Advanced</Level>
+<ParticipantsCount>2</ParticipantsCount>
+<Prize>200.00</Prize>
+<HasWinner>Yes</HasWinner>
+<Winners>
+<Winner>Hugo Lefevre</Winner>
+</Winners>
+</TournamentSummary>
+<TournamentSummary>
+<TournamentID>7</TournamentID>
+<TournamentName>Winter Indoor Masters 2024</TournamentName>
+<Level>Advanced</Level>
+<ParticipantsCount>2</ParticipantsCount>
+<Prize>220.00</Prize>
+<HasWinner>Yes</HasWinner>
+<Winners>
+<Winner>Chloe Martin</Winner>
+</Winners>
+</TournamentSummary>
+</TournamentAnalytics>

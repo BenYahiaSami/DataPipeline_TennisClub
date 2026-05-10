@@ -1,0 +1,567 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Age Categories</title>
+<style> body { 
+  font-family: system-ui, Arial, sans-serif; margin: 24px; } 
+  h1 { margin: 0 0 8px; } 
+  h2 { margin: 24px 0 8px; font-size: 1.1em; color: #333; border-bottom: 1px solid #e3e3e3; padding-bottom: 6px; } 
+  .hint { color:#555; margin: 0 0 16px; } table { border-collapse: collapse; width: 100%; margin-bottom: 32px; }
+  th, td { border: 1px solid #e3e3e3; padding: 8px 10px; vertical-align: top; }
+  th { background: #f7f7f8; text-align: left; }
+  tbody tr:nth-child(even) { background: #fafafa; } 
+  .muted { color:#666; font-size: 0.9em; } 
+  code { background:#f3f3f6; padding:1px 4px; border-radius:4px; } 
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 0.82em; font-weight: 600; border: 1px solid; } 
+  .badge-minor { background:#e0f2fe; border-color:#38bdf8; color:#0369a1; } 
+  .badge-adult { background:#dcfce7; border-color:#22c55e; color:#15803d; } 
+  .badge-senior { background:#ffedd5; border-color:#fb923c; color:#c2410c; } 
+  .summary { display:flex; gap:16px; flex-wrap:wrap; margin-bottom:28px; } 
+  .summary-box { flex:1; min-width:120px; border:1px solid #e3e3e3; border-radius:8px; padding:14px 18px; text-align:center; background:#fafafa; } 
+  .summary-box .val { font-size:2.2em; font-weight:700; } 
+  .summary-box .lbl { font-size:0.82em; color:#666; margin-top:2px; } 
+  .val-minor { color:#0369a1; }
+  .val-adult { color:#15803d; } 
+  .val-senior { color:#c2410c; } 
+  .val-total { color:#333; } 
+  .empty { color:#999; font-style:italic; padding:12px 0; } </style>
+</head>
+<body>
+<h1>Member Age Categories</h1>
+<p class="hint">RG Tennis Club
+— Reference date:
+          <code>2025-04-25</code>
+</p>
+<div class="summary">
+<div class="summary-box">
+<div class="val val-total">30</div>
+<div class="lbl">Total Members</div>
+</div>
+<div class="summary-box">
+<div class="val val-minor">1</div>
+<div class="lbl">Minors (age &lt; 18)</div>
+</div>
+<div class="summary-box">
+<div class="val val-adult">28</div>
+<div class="lbl">Adults (18 = age &lt; 60)</div>
+</div>
+<div class="summary-box">
+<div class="val val-senior">1</div>
+<div class="lbl">Seniors (age = 60)</div>
+</div>
+</div>
+<h2>
+ Minors : Age &lt; 18 (
+          1
+member(s))
+        </h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Gender</th>
+<th>Date of Birth</th>
+<th>Age</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<code>8</code>
+</td>
+<td>Carlos</td>
+<td>Alcaraz</td>
+<td>? Homme</td>
+<td>2010-03-05</td>
+<td>
+<span class="badge badge-minor">15
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+</tbody>
+</table>
+<h2>
+ Adults : 18 = Age &lt; 60 (
+          28
+member(s))
+        </h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Gender</th>
+<th>Date of Birth</th>
+<th>Age</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<code>27</code>
+</td>
+<td>Camille</td>
+<td>Lambert</td>
+<td>? Femme</td>
+<td>2001-12-09</td>
+<td>
+<span class="badge badge-adult">24
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>18</code>
+</td>
+<td>Chloe</td>
+<td>Martin</td>
+<td>? Femme</td>
+<td>2000-06-30</td>
+<td>
+<span class="badge badge-adult">25
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>29</code>
+</td>
+<td>Manon</td>
+<td>Noel</td>
+<td>? Femme</td>
+<td>1999-09-25</td>
+<td>
+<span class="badge badge-adult">26
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>14</code>
+</td>
+<td>Alice</td>
+<td>Petrov</td>
+<td>? Femme</td>
+<td>1999-03-12</td>
+<td>
+<span class="badge badge-adult">26
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>11</code>
+</td>
+<td>Stefanos</td>
+<td>Tsitsipas</td>
+<td>? Homme</td>
+<td>1998-08-12</td>
+<td>
+<span class="badge badge-adult">27
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>6</code>
+</td>
+<td>Aryna</td>
+<td>Sabalenka</td>
+<td>? Femme</td>
+<td>1998-05-05</td>
+<td>
+<span class="badge badge-adult">27
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>16</code>
+</td>
+<td>Emma</td>
+<td>Dubois</td>
+<td>? Femme</td>
+<td>1998-03-14</td>
+<td>
+<span class="badge badge-adult">27
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>19</code>
+</td>
+<td>Lucas</td>
+<td>Bernard</td>
+<td>? Homme</td>
+<td>1997-12-12</td>
+<td>
+<span class="badge badge-adult">28
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>13</code>
+</td>
+<td>Alexander</td>
+<td>Zverev</td>
+<td>? Homme</td>
+<td>1997-04-20</td>
+<td>
+<span class="badge badge-adult">28
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>28</code>
+</td>
+<td>Alexis</td>
+<td>Bonnet</td>
+<td>? Homme</td>
+<td>1997-03-18</td>
+<td>
+<span class="badge badge-adult">28
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>23</code>
+</td>
+<td>Julie</td>
+<td>Roux</td>
+<td>? Femme</td>
+<td>1996-08-21</td>
+<td>
+<span class="badge badge-adult">29
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>15</code>
+</td>
+<td>Lucas</td>
+<td>Moreau</td>
+<td>? Homme</td>
+<td>1995-07-22</td>
+<td>
+<span class="badge badge-adult">30
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>20</code>
+</td>
+<td>Laura</td>
+<td>Petit</td>
+<td>? Femme</td>
+<td>1994-04-05</td>
+<td>
+<span class="badge badge-adult">31
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>25</code>
+</td>
+<td>Sophie</td>
+<td>Girard</td>
+<td>? Femme</td>
+<td>1994-01-11</td>
+<td>
+<span class="badge badge-adult">31
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>22</code>
+</td>
+<td>Thomas</td>
+<td>Garcia</td>
+<td>? Homme</td>
+<td>1993-02-14</td>
+<td>
+<span class="badge badge-adult">32
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>21</code>
+</td>
+<td>Enzo</td>
+<td>Moreau</td>
+<td>? Homme</td>
+<td>1992-11-18</td>
+<td>
+<span class="badge badge-adult">33
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>17</code>
+</td>
+<td>Hugo</td>
+<td>Lefevre</td>
+<td>? Homme</td>
+<td>1992-11-08</td>
+<td>
+<span class="badge badge-adult">33
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>12</code>
+</td>
+<td>Simona</td>
+<td>Halep</td>
+<td>? Femme</td>
+<td>1991-09-27</td>
+<td>
+<span class="badge badge-adult">34
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>30</code>
+</td>
+<td>Julien</td>
+<td>Chevalier</td>
+<td>? Homme</td>
+<td>1991-06-06</td>
+<td>
+<span class="badge badge-adult">34
+yrs
+        </span>
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>
+<code>10</code>
+</td>
+<td>Caroline</td>
+<td>Wozniacki</td>
+<td>? Femme</td>
+<td>1990-07-11</td>
+<td>
+<span class="badge badge-adult">35
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>24</code>
+</td>
+<td>Maxime</td>
+<td>Fournier</td>
+<td>? Homme</td>
+<td>1989-05-30</td>
+<td>
+<span class="badge badge-adult">36
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>5</code>
+</td>
+<td>Novak</td>
+<td>Djokovic</td>
+<td>? Homme</td>
+<td>1987-05-22</td>
+<td>
+<span class="badge badge-adult">38
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>7</code>
+</td>
+<td>Andy</td>
+<td>Murray</td>
+<td>? Homme</td>
+<td>1987-05-15</td>
+<td>
+<span class="badge badge-adult">38
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>2</code>
+</td>
+<td>Maria</td>
+<td>Sharapova</td>
+<td>? Femme</td>
+<td>1987-04-19</td>
+<td>
+<span class="badge badge-adult">38
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>1</code>
+</td>
+<td>Rafa</td>
+<td>Nadal</td>
+<td>? Homme</td>
+<td>1986-06-03</td>
+<td>
+<span class="badge badge-adult">39
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>26</code>
+</td>
+<td>Paul</td>
+<td>Andre</td>
+<td>? Homme</td>
+<td>1985-10-02</td>
+<td>
+<span class="badge badge-adult">40
+yrs
+        </span>
+</td>
+<td>Beginner</td>
+</tr>
+<tr>
+<td>
+<code>4</code>
+</td>
+<td>Serena</td>
+<td>Williams</td>
+<td>? Femme</td>
+<td>1981-09-26</td>
+<td>
+<span class="badge badge-adult">44
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+<tr>
+<td>
+<code>3</code>
+</td>
+<td>Roger</td>
+<td>Federer</td>
+<td>? Homme</td>
+<td>1981-08-08</td>
+<td>
+<span class="badge badge-adult">44
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+</tbody>
+</table>
+<h2>
+ Seniors : Age = 60 (
+          1
+member(s))
+        </h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Gender</th>
+<th>Date of Birth</th>
+<th>Age</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<code>9</code>
+</td>
+<td>Jimmy</td>
+<td>Connors</td>
+<td>? Homme</td>
+<td>1952-09-02</td>
+<td>
+<span class="badge badge-senior">73
+yrs
+        </span>
+</td>
+<td>Advanced</td>
+</tr>
+</tbody>
+</table>
+<p class="muted">
+RG Tennis Club | Generated on
+          2025-04-25</p>
+</body>
+</html>

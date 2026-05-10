@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TENNIS_CLUB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema1.xsd" ClubName="RG Tennis Club">
+
+  <MEMBERS>
+
+    <MEMBER Id="1">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Nadal</LAST_NAME>
+        <FIRST_NAME>Rafa</FIRST_NAME>
+        <BIRTH_DATE>1986-06-03</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0612345678</PHONE_NUMBER>
+        <EMAIL>rafa.nadal@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="1">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-01-10</INSCRIPTIONDATE>
+          <END_DATE>2024-01-10</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="2">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-01-11</INSCRIPTIONDATE>
+          <END_DATE>2025-01-11</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="2">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Sharapova</LAST_NAME>
+        <FIRST_NAME>Maria</FIRST_NAME>
+        <BIRTH_DATE>1987-04-19</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0623456789</PHONE_NUMBER>
+        <EMAIL>maria.sharapova@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="3">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-02-15</INSCRIPTIONDATE>
+          <END_DATE>2025-02-15</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="3">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Federer</LAST_NAME>
+        <FIRST_NAME>Roger</FIRST_NAME>
+        <BIRTH_DATE>1981-08-08</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0634567890</PHONE_NUMBER>
+        <EMAIL>roger.federer@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="4">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-03-01</INSCRIPTIONDATE>
+          <END_DATE>2025-03-01</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="4">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Williams</LAST_NAME>
+        <FIRST_NAME>Serena</FIRST_NAME>
+        <BIRTH_DATE>1981-09-26</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0645678901</PHONE_NUMBER>
+        <EMAIL>serena.williams@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="5">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-01-20</INSCRIPTIONDATE>
+          <END_DATE>2025-01-20</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="5">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Djokovic</LAST_NAME>
+        <FIRST_NAME>Novak</FIRST_NAME>
+        <BIRTH_DATE>1987-05-22</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0656789012</PHONE_NUMBER>
+        <EMAIL>novak.djokovic@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="6">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-04-05</INSCRIPTIONDATE>
+          <END_DATE>2025-04-05</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="6">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Sabalenka</LAST_NAME>
+        <FIRST_NAME>Aryna</FIRST_NAME>
+        <BIRTH_DATE>1998-05-05</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0667890123</PHONE_NUMBER>
+        <EMAIL>aryna.sabalenka@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="7">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-09-01</INSCRIPTIONDATE>
+          <END_DATE>2025-09-01</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="7">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Murray</LAST_NAME>
+        <FIRST_NAME>Andy</FIRST_NAME>
+        <BIRTH_DATE>1987-05-15</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0678901234</PHONE_NUMBER>
+        <EMAIL>andy.murray@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="8">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-11-15</INSCRIPTIONDATE>
+          <END_DATE>2025-11-15</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="8">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Alcaraz</LAST_NAME>
+        <FIRST_NAME>Carlos</FIRST_NAME>
+        <BIRTH_DATE>2010-03-05</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0690000001</PHONE_NUMBER>
+        <EMAIL>carlos.alcaraz@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="9">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2025-01-10</INSCRIPTIONDATE>
+          <END_DATE>2026-01-10</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="9">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Connors</LAST_NAME>
+        <FIRST_NAME>Jimmy</FIRST_NAME>
+        <BIRTH_DATE>1952-09-02</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0690000002</PHONE_NUMBER>
+        <EMAIL>jimmy.connors@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="10">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2025-03-15</INSCRIPTIONDATE>
+          <END_DATE>2026-03-15</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="10">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Wozniacki</LAST_NAME>
+        <FIRST_NAME>Caroline</FIRST_NAME>
+        <BIRTH_DATE>1990-07-11</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0690000003</PHONE_NUMBER>
+        <EMAIL>caroline.wozniacki@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="11">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-02-20</INSCRIPTIONDATE>
+          <END_DATE>2023-02-20</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="11">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Tsitsipas</LAST_NAME>
+        <FIRST_NAME>Stefanos</FIRST_NAME>
+        <BIRTH_DATE>1998-08-12</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0690000004</PHONE_NUMBER>
+        <EMAIL>stefanos.tsitsipas@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="12">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-09-05</INSCRIPTIONDATE>
+          <END_DATE>2023-09-05</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="12">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Halep</LAST_NAME>
+        <FIRST_NAME>Simona</FIRST_NAME>
+        <BIRTH_DATE>1991-09-27</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0690000005</PHONE_NUMBER>
+        <EMAIL>simona.halep@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="13">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2021-03-10</INSCRIPTIONDATE>
+          <END_DATE>2022-03-10</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="13">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Zverev</LAST_NAME>
+        <FIRST_NAME>Alexander</FIRST_NAME>
+        <BIRTH_DATE>1997-04-20</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0690000006</PHONE_NUMBER>
+        <EMAIL>alexander.zverev@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="14">
+          <MEMBERLEVEL>Advanced</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2021-11-15</INSCRIPTIONDATE>
+          <END_DATE>2022-11-15</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="14">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Petrov</LAST_NAME>
+        <FIRST_NAME>Alice</FIRST_NAME>
+        <BIRTH_DATE>1999-03-12</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0612457890</PHONE_NUMBER>
+        <EMAIL>alice.petrov@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="17">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-09-10</INSCRIPTIONDATE>
+          <END_DATE>2023-09-10</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="15">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Moreau</LAST_NAME>
+        <FIRST_NAME>Lucas</FIRST_NAME>
+        <BIRTH_DATE>1995-07-22</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0734561298</PHONE_NUMBER>
+        <EMAIL>lucas.moreau@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="18">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2021-01-05</INSCRIPTIONDATE>
+          <END_DATE>2022-01-05</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="16">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Dubois</LAST_NAME>
+        <FIRST_NAME>Emma</FIRST_NAME>
+        <BIRTH_DATE>1998-03-14</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0612345678</PHONE_NUMBER>
+        <EMAIL>emma.dubois@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="19">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-02-01</INSCRIPTIONDATE>
+          <END_DATE>2023-02-01</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="20">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-02-02</INSCRIPTIONDATE>
+          <END_DATE>2024-02-02</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="21">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-02-03</INSCRIPTIONDATE>
+          <END_DATE>2025-02-03</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="17">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Lefevre</LAST_NAME>
+        <FIRST_NAME>Hugo</FIRST_NAME>
+        <BIRTH_DATE>1992-11-08</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0623456789</PHONE_NUMBER>
+        <EMAIL>hugo.lefevre@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="22">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2021-05-10</INSCRIPTIONDATE>
+          <END_DATE>2022-05-10</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="23">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-05-11</INSCRIPTIONDATE>
+          <END_DATE>2023-05-11</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="24">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-05-12</INSCRIPTIONDATE>
+          <END_DATE>2024-05-12</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="18">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Martin</LAST_NAME>
+        <FIRST_NAME>Chloe</FIRST_NAME>
+        <BIRTH_DATE>2000-06-30</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0634567890</PHONE_NUMBER>
+        <EMAIL>chloe.martin@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="25">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2020-09-01</INSCRIPTIONDATE>
+          <END_DATE>2021-09-01</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="26">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2021-09-02</INSCRIPTIONDATE>
+          <END_DATE>2022-09-02</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="27">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-09-03</INSCRIPTIONDATE>
+          <END_DATE>2023-09-03</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="19">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Bernard</LAST_NAME>
+        <FIRST_NAME>Lucas</FIRST_NAME>
+        <BIRTH_DATE>1997-12-12</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0645678901</PHONE_NUMBER>
+        <EMAIL>lucas.bernard@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="28">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2019-03-15</INSCRIPTIONDATE>
+          <END_DATE>2020-03-15</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="29">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2020-03-16</INSCRIPTIONDATE>
+          <END_DATE>2021-03-16</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="30">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2021-03-17</INSCRIPTIONDATE>
+          <END_DATE>2022-03-17</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="20">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Petit</LAST_NAME>
+        <FIRST_NAME>Laura</FIRST_NAME>
+        <BIRTH_DATE>1994-04-05</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0656789012</PHONE_NUMBER>
+        <EMAIL>laura.petit@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="31">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2018-07-20</INSCRIPTIONDATE>
+          <END_DATE>2019-07-20</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="32">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2019-07-21</INSCRIPTIONDATE>
+          <END_DATE>2020-07-21</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="33">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2020-07-22</INSCRIPTIONDATE>
+          <END_DATE>2021-07-22</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="21">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Moreau</LAST_NAME>
+        <FIRST_NAME>Enzo</FIRST_NAME>
+        <BIRTH_DATE>1992-11-18</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0612349876</PHONE_NUMBER>
+        <EMAIL>enzo.moreau@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="34">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2016-03-15</INSCRIPTIONDATE>
+          <END_DATE>2017-03-15</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="35">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2017-03-16</INSCRIPTIONDATE>
+          <END_DATE>2018-03-16</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="36">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2018-03-17</INSCRIPTIONDATE>
+          <END_DATE>2019-03-17</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="22">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Garcia</LAST_NAME>
+        <FIRST_NAME>Thomas</FIRST_NAME>
+        <BIRTH_DATE>1993-02-14</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000001</PHONE_NUMBER>
+        <EMAIL>thomas.garcia@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="37">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-06-10</INSCRIPTIONDATE>
+          <END_DATE>2022-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="38">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-01-01</INSCRIPTIONDATE>
+          <END_DATE>2023-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="39">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-01-01</INSCRIPTIONDATE>
+          <END_DATE>2024-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="23">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Roux</LAST_NAME>
+        <FIRST_NAME>Julie</FIRST_NAME>
+        <BIRTH_DATE>1996-08-21</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000002</PHONE_NUMBER>
+        <EMAIL>julie.roux@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="40">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-03-15</INSCRIPTIONDATE>
+          <END_DATE>2023-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="41">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-01-01</INSCRIPTIONDATE>
+          <END_DATE>2024-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="24">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Fournier</LAST_NAME>
+        <FIRST_NAME>Maxime</FIRST_NAME>
+        <BIRTH_DATE>1989-05-30</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000003</PHONE_NUMBER>
+        <EMAIL>maxime.fournier@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="42">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2021-09-01</INSCRIPTIONDATE>
+          <END_DATE>2021-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="43">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-01-01</INSCRIPTIONDATE>
+          <END_DATE>2022-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="25">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Girard</LAST_NAME>
+        <FIRST_NAME>Sophie</FIRST_NAME>
+        <BIRTH_DATE>1994-01-11</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000004</PHONE_NUMBER>
+        <EMAIL>sophie.girard@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="44">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-04-20</INSCRIPTIONDATE>
+          <END_DATE>2022-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="45">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-01-01</INSCRIPTIONDATE>
+          <END_DATE>2023-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="26">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Andre</LAST_NAME>
+        <FIRST_NAME>Paul</FIRST_NAME>
+        <BIRTH_DATE>1985-10-02</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000005</PHONE_NUMBER>
+        <EMAIL>paul.andre@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="46">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-07-01</INSCRIPTIONDATE>
+          <END_DATE>2023-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="47">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-01-01</INSCRIPTIONDATE>
+          <END_DATE>2024-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="27">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Lambert</LAST_NAME>
+        <FIRST_NAME>Camille</FIRST_NAME>
+        <BIRTH_DATE>2001-12-09</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000006</PHONE_NUMBER>
+        <EMAIL>camille.lambert@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="48">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-05-15</INSCRIPTIONDATE>
+          <END_DATE>2024-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="28">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Bonnet</LAST_NAME>
+        <FIRST_NAME>Alexis</FIRST_NAME>
+        <BIRTH_DATE>1997-03-18</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000007</PHONE_NUMBER>
+        <EMAIL>alexis.bonnet@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="49">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2022-02-10</INSCRIPTIONDATE>
+          <END_DATE>2022-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="50">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-01-01</INSCRIPTIONDATE>
+          <END_DATE>2023-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="29">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Noel</LAST_NAME>
+        <FIRST_NAME>Manon</FIRST_NAME>
+        <BIRTH_DATE>1999-09-25</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000008</PHONE_NUMBER>
+        <EMAIL>manon.noel@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="51">
+          <MEMBERLEVEL>Beginner</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2023-08-01</INSCRIPTIONDATE>
+          <END_DATE>2023-12-31</END_DATE>
+        </MEMBERSHIP>
+        <MEMBERSHIP Id="52">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-01-01</INSCRIPTIONDATE>
+          <END_DATE>2024-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+    <MEMBER Id="30">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Chevalier</LAST_NAME>
+        <FIRST_NAME>Julien</FIRST_NAME>
+        <BIRTH_DATE>1991-06-06</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0700000009</PHONE_NUMBER>
+        <EMAIL>julien.chevalier@email.fr</EMAIL>
+      </CONTACT>
+      <MEMBERSHIPS>
+        <MEMBERSHIP Id="53">
+          <MEMBERLEVEL>Intermediate</MEMBERLEVEL>
+          <INSCRIPTIONDATE>2024-02-01</INSCRIPTIONDATE>
+          <END_DATE>2024-12-31</END_DATE>
+        </MEMBERSHIP>
+      </MEMBERSHIPS>
+    </MEMBER>
+
+  </MEMBERS>
+
+  <COACHS>
+
+    <COACH Id="1">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Mouratoglou</LAST_NAME>
+        <FIRST_NAME>Patrick</FIRST_NAME>
+        <BIRTH_DATE>1970-06-06</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0611223344</PHONE_NUMBER>
+        <EMAIL>patrick.mouratoglou@tennisclub-rg.fr</EMAIL>
+      </CONTACT>
+    </COACH>
+
+    <COACH Id="2">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Mauresmo</LAST_NAME>
+        <FIRST_NAME>Amelie</FIRST_NAME>
+        <BIRTH_DATE>1979-07-05</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0655667788</PHONE_NUMBER>
+        <EMAIL>amelie.mauresmo@tennisclub-rg.fr</EMAIL>
+      </CONTACT>
+    </COACH>
+
+    <COACH Id="3">
+      <INFORMATION>
+        <SEXE>Male</SEXE>
+        <LAST_NAME>Fontaine</LAST_NAME>
+        <FIRST_NAME>Julien</FIRST_NAME>
+        <BIRTH_DATE>1983-03-14</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0678451290</PHONE_NUMBER>
+        <EMAIL>julien.fontaine@tennisclub-rg.fr</EMAIL>
+      </CONTACT>
+    </COACH>
+
+    <COACH Id="4">
+      <INFORMATION>
+        <SEXE>Female</SEXE>
+        <LAST_NAME>Renard</LAST_NAME>
+        <FIRST_NAME>Claire</FIRST_NAME>
+        <BIRTH_DATE>1991-09-22</BIRTH_DATE>
+      </INFORMATION>
+      <CONTACT>
+        <PHONE_NUMBER>0634782156</PHONE_NUMBER>
+        <EMAIL>claire.renard@tennisclub-rg.fr</EMAIL>
+      </CONTACT>
+    </COACH>
+
+  </COACHS>
+
+  <FACILITIES>
+
+    <FACILITY Id="1">
+      <FACILITYTYPE>Outside</FACILITYTYPE>
+      <SURFACETYPE>Clay</SURFACETYPE>
+      <STATE>Operational</STATE>
+    </FACILITY>
+
+    <FACILITY Id="2">
+      <FACILITYTYPE>Outside</FACILITYTYPE>
+      <SURFACETYPE>Hard</SURFACETYPE>
+      <STATE>Operational</STATE>
+    </FACILITY>
+
+    <FACILITY Id="3">
+      <FACILITYTYPE>Outside</FACILITYTYPE>
+      <SURFACETYPE>Grass</SURFACETYPE>
+      <STATE>NotOperational</STATE>
+    </FACILITY>
+
+    <FACILITY Id="4">
+      <FACILITYTYPE>Inside</FACILITYTYPE>
+      <SURFACETYPE>Hard</SURFACETYPE>
+      <STATE>Operational</STATE>
+    </FACILITY>
+
+  </FACILITIES>
+
+  <EQUIPMENTS>
+
+    <EQUIPMENT Id="1">
+      <STATE>InUse</STATE>
+      <TYPE>Racket</TYPE>
+      <QUANTITY>1</QUANTITY>
+    </EQUIPMENT>
+
+    <EQUIPMENT Id="2">
+      <STATE>Available</STATE>
+      <TYPE>Racket</TYPE>
+      <QUANTITY>2</QUANTITY>
+    </EQUIPMENT>
+
+    <EQUIPMENT Id="3">
+      <STATE>Maintenance</STATE>
+      <TYPE>Racket</TYPE>
+      <QUANTITY>1</QUANTITY>
+    </EQUIPMENT>
+
+    <EQUIPMENT Id="4">
+      <STATE>InUse</STATE>
+      <TYPE>BallBasket</TYPE>
+      <QUANTITY>1</QUANTITY>
+    </EQUIPMENT>
+
+    <EQUIPMENT Id="5">
+      <STATE>Available</STATE>
+      <TYPE>BallBasket</TYPE>
+      <QUANTITY>2</QUANTITY>
+    </EQUIPMENT>
+
+    <EQUIPMENT Id="6">
+      <STATE>Available</STATE>
+      <TYPE>Net</TYPE>
+      <QUANTITY>1</QUANTITY>
+    </EQUIPMENT>
+
+    <EQUIPMENT Id="7">
+      <STATE>Maintenance</STATE>
+      <TYPE>Net</TYPE>
+      <QUANTITY>1</QUANTITY>
+    </EQUIPMENT>
+
+    <EQUIPMENT Id="8">
+      <STATE>Available</STATE>
+      <TYPE>BallMachine</TYPE>
+      <QUANTITY>1</QUANTITY>
+    </EQUIPMENT>
+
+  </EQUIPMENTS>
+
+  <BOOKINGS>
+
+    <BOOKING Id="1">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-10T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-10T11:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="1">
+          <LAST_NAME>Nadal</LAST_NAME>
+          <FIRST_NAME>Rafa</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Maltar</LAST_NAME>
+          <FIRST_NAME>Robert</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="2">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-10T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-10T16:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="2">
+          <LAST_NAME>Sharapova</LAST_NAME>
+          <FIRST_NAME>Maria</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Petrov</LAST_NAME>
+          <FIRST_NAME>Alice</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="3">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-11T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-11T12:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="4">
+          <LAST_NAME>Williams</LAST_NAME>
+          <FIRST_NAME>Serena</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Moreau</LAST_NAME>
+          <FIRST_NAME>Lucas</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="4">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-11T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-11T20:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="7">
+          <LAST_NAME>Murray</LAST_NAME>
+          <FIRST_NAME>Andy</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Lefevre</LAST_NAME>
+          <FIRST_NAME>Antoine</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="5">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-12T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-12T20:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="13">
+          <LAST_NAME>Zverev</LAST_NAME>
+          <FIRST_NAME>Alexander</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Moreau</LAST_NAME>
+          <FIRST_NAME>Enzo</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="6">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-12T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-12T10:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="3">
+          <LAST_NAME>Federer</LAST_NAME>
+          <FIRST_NAME>Roger</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="5">
+          <LAST_NAME>Djokovic</LAST_NAME>
+          <FIRST_NAME>Novak</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="7">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-12T11:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-12T12:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER>
+          <LAST_NAME>Bernard</LAST_NAME>
+          <FIRST_NAME>Lucas</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="19">
+          <LAST_NAME>Bernard</LAST_NAME>
+          <FIRST_NAME>Lucas</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="8">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-13T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-13T11:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="6">
+          <LAST_NAME>Sabalenka</LAST_NAME>
+          <FIRST_NAME>Aryna</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="9">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-13T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-13T19:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="10">
+          <LAST_NAME>Wozniacki</LAST_NAME>
+          <FIRST_NAME>Caroline</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Morel</LAST_NAME>
+          <FIRST_NAME>Anne</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="10">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-14T13:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-14T14:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="11">
+          <LAST_NAME>Tsitsipas</LAST_NAME>
+          <FIRST_NAME>Stefanos</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="13">
+          <LAST_NAME>Zverev</LAST_NAME>
+          <FIRST_NAME>Alexander</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="11">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-14T15:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-14T17:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="14">
+          <LAST_NAME>Petrov</LAST_NAME>
+          <FIRST_NAME>Alice</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Durand</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="12">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-15T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-15T10:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER>
+          <LAST_NAME>Petit</LAST_NAME>
+          <FIRST_NAME>Laura</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="20">
+          <LAST_NAME>Petit</LAST_NAME>
+          <FIRST_NAME>Laura</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="13">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-15T17:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-15T18:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="15">
+          <LAST_NAME>Moreau</LAST_NAME>
+          <FIRST_NAME>Lucas</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="14">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-16T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-16T11:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="16">
+          <LAST_NAME>Dubois</LAST_NAME>
+          <FIRST_NAME>Emma</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Martin</LAST_NAME>
+          <FIRST_NAME>Chloe</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="15">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-16T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-16T15:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="17">
+          <LAST_NAME>Lefevre</LAST_NAME>
+          <FIRST_NAME>Hugo</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Bernard</LAST_NAME>
+          <FIRST_NAME>Lucas</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="16">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-17T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-17T10:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="18">
+          <LAST_NAME>Martin</LAST_NAME>
+          <FIRST_NAME>Chloe</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="17">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-17T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-17T20:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="19">
+          <LAST_NAME>Bernard</LAST_NAME>
+          <FIRST_NAME>Lucas</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="15">
+          <LAST_NAME>Moreau</LAST_NAME>
+          <FIRST_NAME>Lucas</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="18">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-18T11:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-18T12:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER>
+          <LAST_NAME>Petit</LAST_NAME>
+          <FIRST_NAME>Laura</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="20">
+          <LAST_NAME>Petit</LAST_NAME>
+          <FIRST_NAME>Laura</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="19">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-18T15:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-18T17:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="21">
+          <LAST_NAME>Moreau</LAST_NAME>
+          <FIRST_NAME>Enzo</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Garcia</LAST_NAME>
+          <FIRST_NAME>Thomas</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="20">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-19T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-19T10:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="22">
+          <LAST_NAME>Garcia</LAST_NAME>
+          <FIRST_NAME>Thomas</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="21">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-19T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-19T19:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="23">
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Durand</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="22">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-20T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-20T11:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="24">
+          <LAST_NAME>Fournier</LAST_NAME>
+          <FIRST_NAME>Maxime</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="23">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-20T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-20T15:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="25">
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="24">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-21T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-21T10:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="26">
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="25">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-21T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-21T20:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="27">
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="28">
+          <LAST_NAME>Bonnet</LAST_NAME>
+          <FIRST_NAME>Alexis</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="26">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-22T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-22T11:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="29">
+          <LAST_NAME>Noel</LAST_NAME>
+          <FIRST_NAME>Manon</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Petit</LAST_NAME>
+          <FIRST_NAME>Laura</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="27">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-22T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-22T16:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="30">
+          <LAST_NAME>Chevalier</LAST_NAME>
+          <FIRST_NAME>Julien</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Garcia</LAST_NAME>
+          <FIRST_NAME>Thomas</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="28">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-23T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-23T10:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="22">
+          <LAST_NAME>Garcia</LAST_NAME>
+          <FIRST_NAME>Thomas</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="29">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-23T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-23T19:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="23">
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Durand</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="30">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-24T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-24T11:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="24">
+          <LAST_NAME>Fournier</LAST_NAME>
+          <FIRST_NAME>Maxime</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="31">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-24T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-24T15:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="25">
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="32">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-25T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-25T10:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="26">
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="33">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-25T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-25T20:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="27">
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="28">
+          <LAST_NAME>Bonnet</LAST_NAME>
+          <FIRST_NAME>Alexis</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="34">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-26T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-26T11:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER>
+          <LAST_NAME>Noel</LAST_NAME>
+          <FIRST_NAME>Manon</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="29">
+          <LAST_NAME>Noel</LAST_NAME>
+          <FIRST_NAME>Manon</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="35">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-26T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-26T16:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="30">
+          <LAST_NAME>Chevalier</LAST_NAME>
+          <FIRST_NAME>Julien</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Dubois</LAST_NAME>
+          <FIRST_NAME>Emma</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="36">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-27T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-27T10:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="22">
+          <LAST_NAME>Garcia</LAST_NAME>
+          <FIRST_NAME>Thomas</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="37">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-27T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-27T19:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="23">
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Durand</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="38">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-28T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-28T11:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="24">
+          <LAST_NAME>Fournier</LAST_NAME>
+          <FIRST_NAME>Maxime</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="39">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-28T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-28T15:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="25">
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="40">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-29T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-29T10:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="26">
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="41">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-29T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-29T20:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="27">
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="28">
+          <LAST_NAME>Bonnet</LAST_NAME>
+          <FIRST_NAME>Alexis</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="42">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-30T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-30T11:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER>
+          <LAST_NAME>Noel</LAST_NAME>
+          <FIRST_NAME>Manon</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="29">
+          <LAST_NAME>Noel</LAST_NAME>
+          <FIRST_NAME>Manon</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="43">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-06-30T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-30T16:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="30">
+          <LAST_NAME>Chevalier</LAST_NAME>
+          <FIRST_NAME>Julien</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Dubois</LAST_NAME>
+          <FIRST_NAME>Emma</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="44">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-01T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-01T10:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="22">
+          <LAST_NAME>Garcia</LAST_NAME>
+          <FIRST_NAME>Thomas</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="45">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-01T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-01T19:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="23">
+          <LAST_NAME>Roux</LAST_NAME>
+          <FIRST_NAME>Julie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Durand</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="46">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-02T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-02T11:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="24">
+          <LAST_NAME>Fournier</LAST_NAME>
+          <FIRST_NAME>Maxime</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="47">
+      <FACILITYID>3</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-02T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-02T15:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="25">
+          <LAST_NAME>Girard</LAST_NAME>
+          <FIRST_NAME>Sophie</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="48">
+      <FACILITYID>4</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-03T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-03T10:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="26">
+          <LAST_NAME>Andre</LAST_NAME>
+          <FIRST_NAME>Paul</FIRST_NAME>
+        </PLAYER>
+        <PLAYER>
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="49">
+      <FACILITYID>1</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-03T18:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-03T20:00:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER Id="27">
+          <LAST_NAME>Lambert</LAST_NAME>
+          <FIRST_NAME>Camille</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="28">
+          <LAST_NAME>Bonnet</LAST_NAME>
+          <FIRST_NAME>Alexis</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+    <BOOKING Id="50">
+      <FACILITYID>2</FACILITYID>
+      <DATE_HOUR_BEGIN>2025-07-04T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-04T11:30:00</DATE_HOUR_END>
+      <PLAYERS>
+        <PLAYER>
+          <LAST_NAME>Noel</LAST_NAME>
+          <FIRST_NAME>Manon</FIRST_NAME>
+        </PLAYER>
+        <PLAYER Id="29">
+          <LAST_NAME>Noel</LAST_NAME>
+          <FIRST_NAME>Manon</FIRST_NAME>
+        </PLAYER>
+      </PLAYERS>
+    </BOOKING>
+
+
+
+  </BOOKINGS>
+
+  <TRAINING_GROUPS>
+
+    <TRAINING_GROUP Id="1">
+      <LEVEL>Beginner</LEVEL>
+      <MEMBERSID Id="18"/>
+      <MEMBERSID Id="19"/>
+      <MEMBERSID Id="20"/>
+      <MEMBERSID Id="21"/>
+      <MEMBERSID Id="24"/>
+      <MEMBERSID Id="25"/>
+      <MEMBERSID Id="26"/>
+      <MEMBERSID Id="27"/>
+    </TRAINING_GROUP>
+
+    <TRAINING_GROUP Id="2">
+      <LEVEL>Intermediate</LEVEL>
+      <MEMBERSID Id="14"/>
+      <MEMBERSID Id="15"/>
+      <MEMBERSID Id="16"/>
+      <MEMBERSID Id="17"/>
+      <MEMBERSID Id="22"/>
+      <MEMBERSID Id="23"/>
+      <MEMBERSID Id="28"/>
+      <MEMBERSID Id="29"/>
+      <MEMBERSID Id="30"/>
+    </TRAINING_GROUP>
+
+    <TRAINING_GROUP Id="3">
+      <LEVEL>Advanced</LEVEL>
+      <MEMBERSID Id="1"/>
+      <MEMBERSID Id="2"/>
+      <MEMBERSID Id="3"/>
+      <MEMBERSID Id="4"/>
+      <MEMBERSID Id="5"/>
+      <MEMBERSID Id="6"/>
+      <MEMBERSID Id="7"/>
+    </TRAINING_GROUP>
+
+    <TRAINING_GROUP Id="4">
+      <LEVEL>Advanced</LEVEL>
+      <MEMBERSID Id="8"/>
+      <MEMBERSID Id="9"/>
+      <MEMBERSID Id="10"/>
+      <MEMBERSID Id="11"/>
+      <MEMBERSID Id="12"/>
+      <MEMBERSID Id="13"/>
+    </TRAINING_GROUP>
+
+  </TRAINING_GROUPS>
+
+  <TRAINING_SESSIONS>
+
+    <TRAINING_SESSION Id="1">
+      <DATE_HOUR_BEGIN>2025-06-09T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-09T12:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="2">
+      <DATE_HOUR_BEGIN>2025-06-09T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-09T16:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="3">
+      <DATE_HOUR_BEGIN>2025-06-10T08:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-10T10:00:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="4">
+      <DATE_HOUR_BEGIN>2025-06-12T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-12T11:30:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="5">
+      <DATE_HOUR_BEGIN>2025-06-12T16:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-12T18:15:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="6">
+      <DATE_HOUR_BEGIN>2023-01-15T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-01-15T11:00:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="7">
+      <DATE_HOUR_BEGIN>2023-01-22T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-01-22T16:30:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="8">
+      <DATE_HOUR_BEGIN>2023-02-06T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-02-06T12:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="9">
+      <DATE_HOUR_BEGIN>2023-02-14T16:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-02-14T17:30:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="10">
+      <DATE_HOUR_BEGIN>2023-03-03T08:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-03-03T10:00:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="11">
+      <DATE_HOUR_BEGIN>2023-03-17T14:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-03-17T16:30:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="12">
+      <DATE_HOUR_BEGIN>2023-04-05T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-04-05T11:30:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="13">
+      <DATE_HOUR_BEGIN>2023-04-19T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-04-19T12:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="14">
+      <DATE_HOUR_BEGIN>2023-05-08T15:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-05-08T17:00:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="15">
+      <DATE_HOUR_BEGIN>2023-05-22T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-05-22T10:30:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="16">
+      <DATE_HOUR_BEGIN>2023-06-12T11:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-06-12T13:00:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="17">
+      <DATE_HOUR_BEGIN>2023-07-04T08:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-07-04T10:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="18">
+      <DATE_HOUR_BEGIN>2023-07-18T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-07-18T16:00:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="19">
+      <DATE_HOUR_BEGIN>2023-08-07T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-08-07T12:30:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="20">
+      <DATE_HOUR_BEGIN>2023-08-21T16:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-08-21T18:00:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="21">
+      <DATE_HOUR_BEGIN>2023-09-11T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-09-11T11:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="22">
+      <DATE_HOUR_BEGIN>2023-09-25T14:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-09-25T16:30:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="23">
+      <DATE_HOUR_BEGIN>2023-10-09T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-10-09T13:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="24">
+      <DATE_HOUR_BEGIN>2023-10-23T08:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-10-23T10:30:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="25">
+      <DATE_HOUR_BEGIN>2023-11-06T15:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-11-06T17:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="26">
+      <DATE_HOUR_BEGIN>2023-11-20T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-11-20T11:30:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="27">
+      <DATE_HOUR_BEGIN>2023-12-04T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-12-04T16:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="28">
+      <DATE_HOUR_BEGIN>2023-12-18T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-12-18T12:00:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="29">
+      <DATE_HOUR_BEGIN>2024-01-08T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-01-08T11:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="30">
+      <DATE_HOUR_BEGIN>2024-01-22T14:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-01-22T16:30:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="31">
+      <DATE_HOUR_BEGIN>2024-02-05T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-02-05T12:30:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="32">
+      <DATE_HOUR_BEGIN>2024-02-19T15:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-02-19T17:00:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="33">
+      <DATE_HOUR_BEGIN>2024-03-04T08:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-03-04T10:30:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="34">
+      <DATE_HOUR_BEGIN>2024-03-18T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-03-18T16:00:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="35">
+      <DATE_HOUR_BEGIN>2024-04-02T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-04-02T11:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="36">
+      <DATE_HOUR_BEGIN>2024-04-16T16:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-04-16T18:00:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="37">
+      <DATE_HOUR_BEGIN>2024-05-07T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-05-07T12:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="38">
+      <DATE_HOUR_BEGIN>2024-06-03T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-06-03T11:30:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="39">
+      <DATE_HOUR_BEGIN>2024-07-08T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-07-08T16:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="40">
+      <DATE_HOUR_BEGIN>2024-08-12T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-08-12T13:00:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="41">
+      <DATE_HOUR_BEGIN>2024-09-09T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-09-09T11:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="42">
+      <DATE_HOUR_BEGIN>2024-10-07T14:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-10-07T16:30:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="43">
+      <DATE_HOUR_BEGIN>2024-11-04T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-11-04T12:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="44">
+      <DATE_HOUR_BEGIN>2024-12-02T15:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-12-02T17:00:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="45">
+      <DATE_HOUR_BEGIN>2025-01-13T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-01-13T11:30:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="46">
+      <DATE_HOUR_BEGIN>2025-01-27T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-01-27T16:00:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>2</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="47">
+      <DATE_HOUR_BEGIN>2025-02-10T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-02-10T12:00:00</DATE_HOUR_END>
+      <COACHID>2</COACHID>
+      <TRAININGGROUPID>4</TRAININGGROUPID>
+      <FACILITYID>3</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="48">
+      <DATE_HOUR_BEGIN>2025-02-24T15:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-02-24T17:30:00</DATE_HOUR_END>
+      <COACHID>3</COACHID>
+      <TRAININGGROUPID>1</TRAININGGROUPID>
+      <FACILITYID>2</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="49">
+      <DATE_HOUR_BEGIN>2025-03-10T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-03-10T11:00:00</DATE_HOUR_END>
+      <COACHID>4</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>4</FACILITYID>
+    </TRAINING_SESSION>
+
+    <TRAINING_SESSION Id="50">
+      <DATE_HOUR_BEGIN>2025-04-07T14:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-04-07T16:30:00</DATE_HOUR_END>
+      <COACHID>1</COACHID>
+      <TRAININGGROUPID>3</TRAININGGROUPID>
+      <FACILITYID>1</FACILITYID>
+    </TRAINING_SESSION>
+
+  </TRAINING_SESSIONS>
+
+  <TOURNAMENTS>
+
+    <TOURNAMENT Id="1">
+      <NAME>Intermediate Internal Tournament - June 2025</NAME>
+      <LEVEL>Intermediate</LEVEL>
+      <DATE_HOUR_BEGIN>2025-06-07T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-06-07T18:00:00</DATE_HOUR_END>
+      <MEMBERSID Id="2"/>
+      <MEMBERSID Id="5"/>
+      <WINNER>Novak Djokovic</WINNER>
+      <PRICE>150.00</PRICE>
+    </TOURNAMENT>
+
+    <TOURNAMENT Id="2">
+      <NAME>Advanced Open Club - July 2025</NAME>
+      <LEVEL>Advanced</LEVEL>
+      <DATE_HOUR_BEGIN>2025-07-15T08:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2025-07-15T20:00:00</DATE_HOUR_END>
+      <MEMBERSID Id="1"/>
+      <MEMBERSID Id="4"/>
+      <MEMBERSID Id="7"/>
+      <PRICE>250.00</PRICE>
+    </TOURNAMENT>
+
+    <TOURNAMENT Id="3">
+      <NAME>Tournoi Avances - Printemps 2023</NAME>
+      <LEVEL>Advanced</LEVEL>
+      <DATE_HOUR_BEGIN>2023-04-01T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2023-04-01T18:00:00</DATE_HOUR_END>
+      <MEMBERSID Id="1"/>
+      <MEMBERSID Id="4"/>
+      <WINNER>Rafa Nadal</WINNER>
+      <PRICE>200.00</PRICE>
+    </TOURNAMENT>
+
+    <TOURNAMENT Id="4">
+      <NAME>Women Open Club - Spring 2024</NAME>
+      <LEVEL>Advanced</LEVEL>
+      <DATE_HOUR_BEGIN>2024-05-10T09:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-05-10T18:00:00</DATE_HOUR_END>
+      <MEMBERSID Id="10"/>
+      <MEMBERSID Id="4"/>
+      <WINNER>Caroline Wozniacki</WINNER>
+      <PRICE>180.00</PRICE>
+    </TOURNAMENT>
+
+    <TOURNAMENT Id="5">
+      <NAME>Summer Club Championship 2024</NAME>
+      <LEVEL>Intermediate</LEVEL>
+      <DATE_HOUR_BEGIN>2024-06-15T10:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-06-15T17:00:00</DATE_HOUR_END>
+      <MEMBERSID Id="16"/>
+      <MEMBERSID Id="17"/>
+      <WINNER>Emma Dubois</WINNER>
+      <PRICE>150.00</PRICE>
+    </TOURNAMENT>
+
+    <TOURNAMENT Id="6">
+      <NAME>Autumn Tennis Cup 2024</NAME>
+      <LEVEL>Advanced</LEVEL>
+      <DATE_HOUR_BEGIN>2024-09-20T09:30:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-09-20T18:30:00</DATE_HOUR_END>
+      <MEMBERSID Id="18"/>
+      <MEMBERSID Id="19"/>
+      <WINNER>Hugo Lefevre</WINNER>
+      <PRICE>200.00</PRICE>
+    </TOURNAMENT>
+
+    <TOURNAMENT Id="7">
+      <NAME>Winter Indoor Masters 2024</NAME>
+      <LEVEL>Advanced</LEVEL>
+      <DATE_HOUR_BEGIN>2024-12-05T11:00:00</DATE_HOUR_BEGIN>
+      <DATE_HOUR_END>2024-12-05T19:00:00</DATE_HOUR_END>
+      <MEMBERSID Id="20"/>
+      <MEMBERSID Id="16"/>
+      <WINNER>Chloe Martin</WINNER>
+      <PRICE>220.00</PRICE>
+    </TOURNAMENT>
+
+  </TOURNAMENTS>
+
+</TENNIS_CLUB>
